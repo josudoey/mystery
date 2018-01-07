@@ -1,0 +1,7 @@
+*~
+*.swp
+*.swo
+npm-debug.log
+public
+
+node_modules/
